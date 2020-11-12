@@ -33,6 +33,5 @@
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-23272A?style=flat&logo=adobe-premiere-pro">
 </p><br>
 
-<h5 class="center">Discord - </Xenophloxic>#9179</h5>
 <img src="https://readme-github-stats.now.sh/api?username=xenophloxic&theme=dark&show_icons=true&title_color=e10000&icon_color=e10000&show_owner=true" class="center">
 </div>
