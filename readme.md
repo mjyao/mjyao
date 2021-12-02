@@ -10,7 +10,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
-  <img alt="Java" src="https://img.shields.io/badge/-JAVA-23272A?style=flat&logo=java">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
 </p>
 
 <h3 align="center">Frameworks I use<br></h3>
@@ -22,6 +22,7 @@
   <img alt="Django" src="https://img.shields.io/badge/-Django-23272A?style=flat&logo=django">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-23272A?style=flat&logo=tailwind-css"><br>
+  <img alt="React" src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react"><br>
 </p><br>
 
 <h3 align="center">Software I use<br></h3>
