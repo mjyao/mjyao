@@ -33,6 +33,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord"><br>
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">
   <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij Idea-23272A?style=flat&logo=intellij-idea">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
