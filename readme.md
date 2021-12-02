@@ -1,7 +1,7 @@
 <h3 align="center">Almost a Full Stack Developer</h3>
 <p align="center">I am an almost Full Stack Developer who is trying out new projects and languages! I have experience in: Python/JS/C/Java/PHP/SQL/HTML/CSS/C++/C# and more!</p>
 <h3 align="center">Languages I know<br></h3>
-
+<br>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="C" src="https://img.shields.io/badge/-C-23272A?style=flat&logo=C">
@@ -12,7 +12,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
   <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
-</p><br>
+</p>
 
 <h3 align="center">Frameworks I use<br></h3>
 
