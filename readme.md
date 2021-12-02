@@ -1,7 +1,8 @@
 <h3 align="center">Almost a Full Stack Developer</h3>
 <p align="center">I am an almost Full Stack Developer who is trying out new projects and languages! I have experience in: Python/JS/C/Java/PHP/SQL/HTML/CSS/C++/C# and more!</p>
-<h3 align="center">Languages I know<br></h3>
 <br>
+<h3 align="center">Languages I know<br></h3>
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="C" src="https://img.shields.io/badge/-C-23272A?style=flat&logo=C">
