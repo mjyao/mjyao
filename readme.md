@@ -12,7 +12,13 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-23272A?style=flat&logo=c%2B%2B">
   <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-23272A?style=flat&logo=Swift">
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-23272A?style=flat&logo=Kotlin">
+  <img alt="R" src="https://img.shields.io/badge/-R-23272A?style=flat&logo=R">
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-23272A?style=flat&logo=Flutter">
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-23272A?style=flat&logo=GraphQL">
 </p>
 
 <h3 align="center">Frameworks I use<br></h3>
@@ -23,8 +29,13 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-23272A?style=flat&logo=flask">
   <img alt="Django" src="https://img.shields.io/badge/-Django-23272A?style=flat&logo=django">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-23272A?style=flat&logo=tailwind-css"><br>
-  <img alt="React" src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react"><br>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-23272A?style=flat&logo=tailwind-css">
+  <img alt="React" src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react">
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-23272A?style=flat&logo=Vue">
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=Angular">
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=Svelte">
+  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-23272A?style=flat&logo=Stripe">
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
 </p>
 
 <h3 align="center">Software I use<br></h3>
@@ -35,7 +46,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord"><br>
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">
   <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij Idea-23272A?style=flat&logo=intellij-idea">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
