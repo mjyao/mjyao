@@ -1,5 +1,5 @@
-<h3 align="center">Almost a Full Stack Developer</h3>
-<p align="center">I am an almost Full Stack Developer who is trying out new projects and languages! I have experience in: Python/JS/C/Java/PHP/SQL/HTML/CSS/C++/C# and more!</p>
+<h3 align="center">Full Stack Developer</h3>
+<p align="center">I am a Full Stack Developer in training who is trying out new projects and languages! I have experience in: Python/JS/C/Java/PHP/SQL/HTML/CSS/C++/C# and more!</p>
 <br>
 <h3 align="center">Languages I know<br></h3>
 
